@@ -13,7 +13,7 @@ Welcome to the Flag Icons Draw.io Library! This library contains all the flags f
 1. **Download the Library**: Clone or download this repository to your local machine.
 2. **Import into Draw.io**:
    - Open Draw.io.
-   - Go to `File` > `Import From` > `Device`.
+   - Go to `File` > `Open library`.
    - Select the downloaded XML file and import it into your Draw.io library.
 
 ## Usage
